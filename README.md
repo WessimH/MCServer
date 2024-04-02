@@ -12,4 +12,4 @@ docker-compose up -d
 
 docker-compose down
 
-7. Pour plus d'informations, visitez [lien vers la documentation ou le dépôt].
+7. Pour plus d'informations, visitez [https://github.com/WessimH/MCServer.git].
